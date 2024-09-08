@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+    
+
+a li{
+    
+    list-style-type: none;
+    font-size: 8rem;
+    font-family: sans-serif;
+    padding: 15rem;
+    color: black;   
+}
+
+
+
+a{
+    text-decoration: none;
+   
+}
+
+
+a li:hover{
+    background-color:greenyellow;
+    color: black;
+}
+
+
